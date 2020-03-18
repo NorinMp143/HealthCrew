@@ -3,7 +3,7 @@
 Instructions
 ------------
 
-1. In top-right part, there is a button name as fork.
+1. In top-right part, there is a button name as fork. click on that
 // it will create same repo in your github id
 
 2. now you can upload your files but unsure that your filename should not match with other's files, otherwise that file will deleted. some how it is happened then we can also get that file but it is good to learn new thing with perfection.
